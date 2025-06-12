@@ -1,4 +1,4 @@
-# Jasmin Raiza Tendencia (Developer Portfolio)
+# Jasmin Raiza Tendencia (Systems Administrator Portfolio)
 [![igop.png](https://i.postimg.cc/3xZN9T6R/igop.png)](https://postimg.cc/DS87yt7k)
 
 ## Click here to see [live view](https://jrstendencia.github.io/) of the portfolio
