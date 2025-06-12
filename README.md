@@ -4,7 +4,7 @@
 ## Click here to see [live view](https://jrstendencia.github.io/) of the portfolio
 ________________________________________________________________________________________
 
-## Portfolio: jrstendencia: Snippets
+## Portfolio: Snippets
 
 <br />
 
